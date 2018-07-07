@@ -1,0 +1,22 @@
+{
+  "name": "zackcreach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackcreach/zackcreach.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackcreach/zackcreach/issues"
+  },
+  "homepage": "https://github.com/zackcreach/zackcreach#readme",
+  "dependencies": {
+    "nuxt": "^1.4.1"
+  }
+}
