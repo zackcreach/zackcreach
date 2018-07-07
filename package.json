@@ -18,5 +18,11 @@
   "homepage": "https://github.com/zackcreach/zackcreach#readme",
   "dependencies": {
     "nuxt": "^1.4.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.1",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.0.3"
   }
 }
