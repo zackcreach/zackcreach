@@ -5,6 +5,9 @@
 <script>
   export default {
     layout: "index",
+    components: {
+      three: import("~/components/three")
+    },
     asyncData(context) {
       return {name: "Beans"}
     },
